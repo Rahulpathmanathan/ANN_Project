@@ -1,0 +1,11 @@
+mysql.connector 
+pandas
+numpy
+seaborn
+tensorflow
+sklearn
+pickle
+streamlit
+
+
+
