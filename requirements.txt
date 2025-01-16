@@ -3,7 +3,6 @@ pandas
 numpy
 seaborn
 tensorflow
-sklearn
 pickle
 streamlit
 
